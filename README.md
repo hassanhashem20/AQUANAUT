@@ -74,20 +74,30 @@ To create an engaging, educational platform that simulates real astronaut traini
 - **Platform Detection**: Web and mobile compatibility
 
 ## 📱 Screenshots
+### NBL Training Experience:
+<img width="1920" height="846" alt="NBL" src="https://github.com/user-attachments/assets/8d2a5878-da50-4d7b-b431-4ce248db3dc2" />
+### Interactive EMU Assembly:
+<img width="1920" height="826" alt="EML 1" src="https://github.com/user-attachments/assets/2720b683-27d6-4e5a-8c0a-818e169c2f50" />
+<img width="1920" height="968" alt="EML 2" src="https://github.com/user-attachments/assets/63707175-089e-4bae-bda1-38c8dba28be3" />
+### Pre-Breathe Protocol:
+<img width="1910" height="436" alt="breathe" src="https://github.com/user-attachments/assets/47794e0f-167a-47d7-8583-a2e742b87a70" />
+### ISS Precision Docking: 
+<img width="1910" height="464" alt="iss docking " src="https://github.com/user-attachments/assets/987516b4-89b6-4c7a-965f-a1b9cffe6945" />
+### ISS Onboarding Tasks: 
+<img width="1913" height="450" alt="iss onboarding" src="https://github.com/user-attachments/assets/ef1a370a-f2da-41ce-bfbb-dfa90b8e5ee4" />
+### Real-Time ISS Integration: 
+<img width="1920" height="923" alt="Class 4 last" src="https://github.com/user-attachments/assets/ae0f0256-ff2e-4a29-899d-26f382b5c2a2" />
+### Immersive 3D Earth Experience:
+<img width="1915" height="991" alt="3dddddd" src="https://github.com/user-attachments/assets/f30a024a-8ee6-47ba-923a-958109717021" />
+### AI Learning Assistant Integration: 
+<img width="1911" height="984" alt="ai chat" src="https://github.com/user-attachments/assets/edf9cd6c-3566-4efc-b326-6ce6143d17c7" />
+### Mission Control Classroom:
+<img width="1920" height="845" alt="class room" src="https://github.com/user-attachments/assets/4bc8fd44-1380-4b07-9437-7a49ea683739" />
+### NBL Simulator for Classrooms: 
+<img width="1920" height="948" alt="NBL  Class" src="https://github.com/user-attachments/assets/9032487c-22a1-4eef-95bb-68890746853b" />
+### Interactive Math Problem Sets: 
+<img width="1920" height="961" alt="Class 3" src="https://github.com/user-attachments/assets/185f57c0-9b78-4b6b-9453-fb852daa0a65" />
 
-### 🌍 3D Earth Viewer
-![Earth 3D Viewer](https://via.placeholder.com/400x300/1a1a2e/ffffff?text=3D+Earth+Viewer)
-
-### 🎓 Training Modules
-![Training Hub](https://via.placeholder.com/400x300/16213e/ffffff?text=Training+Modules)
-
-### 🤖 AI Assistant
-![AI Chat](https://via.placeholder.com/400x300/0f3460/ffffff?text=AI+Assistant)
-
-### 📊 Progress Tracking
-![Progress Dashboard](https://via.placeholder.com/400x300/533a71/ffffff?text=Progress+Tracking)
-
-## 🚀 Getting Started
 
 ### Prerequisites
 - Flutter SDK 3.24.3 or higher
@@ -217,5 +227,6 @@ If you found this project helpful, please give it a ⭐ on GitHub!
 **Made with ❤️ for NASA Space Apps 2025**
 
 *"The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever."* - Konstantin Tsiolkovsky
+
 
 
