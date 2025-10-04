@@ -99,7 +99,7 @@ To create an engaging, educational platform that simulates real astronaut traini
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/aquanaut-nasa-space-apps-2025.git
+   git clone  https://github.com/hassanhashem20/AQUANAUT.git 
    cd aquanaut-nasa-space-apps-2025
    ```
 
@@ -217,4 +217,5 @@ If you found this project helpful, please give it a ⭐ on GitHub!
 **Made with ❤️ for NASA Space Apps 2025**
 
 *"The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever."* - Konstantin Tsiolkovsky
+
 
