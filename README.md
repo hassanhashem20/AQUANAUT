@@ -114,7 +114,7 @@ To create an engaging, educational platform that simulates real astronaut traini
    flutter run -d web-server --web-port 8080
    
    # For mobile (Android/iOS)
-   flutter run
+   flutter run --release
    ```
 
 4. **Open in browser**
@@ -204,10 +204,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Lead**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Project Lead**: Hassan Hashem   
+- **Email**: Hassanhashem@duck.com
+
 
 ## 🌟 Show Your Support
 
@@ -218,3 +217,4 @@ If you found this project helpful, please give it a ⭐ on GitHub!
 **Made with ❤️ for NASA Space Apps 2025**
 
 *"The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever."* - Konstantin Tsiolkovsky
+
